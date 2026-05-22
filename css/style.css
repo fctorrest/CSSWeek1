@@ -1,0 +1,38 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+}
+/* This is a comment. It will not be rendered in the browser. */
+ header{
+  background-color: #0290ff;
+  text-align: center;
+}
+
+nav{
+  background-color: #0290d1;
+}
+
+main{
+  background-color: #f290df;
+  font-size: 120%;
+}
+
+footer{
+  background-color: #0290d1;
+}
+
+li{
+  display: inline-block;
+  width: 300px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: red;
+}
+
+p{
+  line-height: 1.5;
+}
