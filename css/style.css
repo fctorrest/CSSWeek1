@@ -30,9 +30,14 @@ li{
 h1{
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: red;
+  color: white;
 }
 
 p{
   line-height: 1.5;
 }
+
+a{
+  color: white;
+  text-decoration: none;
+} 
